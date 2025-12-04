@@ -2,5 +2,5 @@
     <h1 class="sun font-inter font-bold text-5xl text-black">Welcome to NovaCraft Studio</h1>
     <p class="sun font-inter font-bold text-3xl text-gray-800">Take your business to the digital stage</p>
     <p class="sun font-inter font-bold text-xl text-gray-500">Website creation, automation and custom digital solutions</p>
-    <a href="?page=services" class="moon opacity-0 bg-black px-10 py-5 rounded-full font-inter font-bold text-xl text-white hover:bg-slate-800">Explore NOW</a>
+    <a href="services" class="moon opacity-0 bg-black px-10 py-5 rounded-full font-inter font-bold text-xl text-white hover:bg-slate-800">Explore NOW</a>
 </div>

@@ -1,5 +1,5 @@
 <div class="w-screen h-full bg-[#EFF0F0] flex flex-col justify-center items-center gap-10 relative">
-    <img id="eye" class="w-5 h-5 fixed opacity-0 cursor-pointer" src="/assets/img/eye.png">
+    <img id="eye" class="w-5 h-5 fixed cursor-pointer top-10" src="/assets/img/eye.png">
     <div id="toast" class="flex gap-2 bg-green-600 text-white px-4 py-3 rounded-lg absolute top-10 -left-80">
         <span class="font-semibold">Success:</span><h1>Your message has been sent!</h1>
     </div>
@@ -25,8 +25,8 @@
 </div>
 <div id="cm" class="fixed bg-black w-screen h-full hidden flex-col gap-5 justify-center items-center">
     <h1 id="cl" class="px-4 py-2 text-white bg-red-600 rounded-full fixed top-5 cursor-pointer">Close</h1>
-    <div id="s">
-        <input id="pass" class="rounded-full w-1/5 h-10 px-8 border border-solid text-center" type="text">
+    <div id="s" class="flex flex-col justify-center items-center gap-10 w-11/12">
+        <input id="pass" class="rounded-full w-1/2 h-10 px-8 border border-solid text-center" type="password">
         <button id="check" class="bg-white p-4 rounded-full">010010000101100101001011010100110100000101001010</button>
     </div>
     <div id="displayh" class="hidden flex-col justify-center items-center w-1/2 h-1/2 gap-5 bg-gray-100 p-10 rounded-3xl overflow-auto"></div>
