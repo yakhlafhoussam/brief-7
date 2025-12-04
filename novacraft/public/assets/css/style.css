@@ -578,6 +578,10 @@ video {
   top: 1.25rem;
 }
 
+.top-24 {
+  top: 6rem;
+}
+
 .mb-2 {
   margin-bottom: 0.5rem;
 }
